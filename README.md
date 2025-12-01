@@ -8,8 +8,11 @@ This script murders the conjecture for n ≤ 100+ using only:
 t = (T₁[k] × up to 3 speeds)^power≤5
 …with real π, e, √2, golden ratio, and random speeds thrown in for extra chaos.
 
+My equipment spec: Macbook Pro M1
+with multi cluster GPU this could absolutely fly
+
 Results (as of Dec 2025)
-• n=30, 1000 tests → 0 failures in under 300 seconds
+• n=9, 1000 tests → 0 failures in under 60 seconds
 • n=30, 1000 tests → 0 failures in under 300 seconds
 • n=50, 1000 tests → 0 failures in under 1003 seconds
 • n=75, 10 tests → 0 failures in under 75 seconds
