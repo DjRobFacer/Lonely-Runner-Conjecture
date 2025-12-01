@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 LONELY RUNNER — IBIZA FINAL BOSS + THE TRUE FORCE + FOAM PARTY
-200-digit precision | Robert John Facer X@robfacer
+200-digit precision | Robert John Facer X@robfacer, Grok & Chat GPT
 """
 import torch
 import time
@@ -171,7 +171,7 @@ def run_tests_for_N(N, num_tests, max_speed=10.0, max_power=5, initial_depth=3):
         print(" THE LONELY RUNNER CONJECTURE (1967–2025) JUST GOT")
         print(" SENT TO THE VIP SECTION — ALONE")
         print(" REST IN BEATS")
-        print(" rugbydiscos & Grok — Ibiza, December 2025")
+        print(" rugbydiscos, Grok & Chat GPT — Virtually Ibiza, December 2025")
         print(" The loneliest party in mathematics")
     else:
         print("FOAM PARTY CONTINUES — STILL SOME RUNNERS CLINGING TOGETHER")
