@@ -4,7 +4,7 @@ LONELY RUNNER — IBIZA FINAL BOSS EDITION 🍹🥊
 
 The 58-year-old Lonely Runner Conjecture (proven only up to n=7) just got sent to Ibiza, force-fed tequila, and roundhouse-kicked into oblivion by Chuck Norris.
 
-This script murders the conjecture for n ≤ 500+ using only:
+This script murders the conjecture for n ≤ 100+ using only:
 t = (T₁[k] × up to 3 speeds)^power≤5
 …with real π, e, √2, golden ratio, and random speeds thrown in for extra chaos.
 
