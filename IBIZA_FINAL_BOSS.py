@@ -207,7 +207,7 @@ def brute_force_failures(N, base_power, cases, extra_depth, extra_power, counter
                     except: continue
                     if lonely_mask_at_time(speeds, float(t))[i]:
                         resolved += 1
-                        print(f"Runner {i+1} WIPEOUT — CAUGHT IN THE FOAM")
+                        print(f"Runner {i+1} RAVER LONELY IN THE FOAM")
                         key = ("own" if seed_idx == i else str(seed_idx+1), p, len(mults))
                         counter[key] += 1
                         found = True
